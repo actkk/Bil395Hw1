@@ -1,6 +1,4 @@
-Bil395 HW1
-Ahmet Cemil Tarık Keskinkılıç
-191101051
+
 
 This project is a simple calculator implemented with Lex (Flex) and Yacc (Bison). 
 
